@@ -1,0 +1,44 @@
+{
+    "nurd-project": {
+      "id": "",
+      "title": "NuRd",
+      "body": "<p>A group JAMStack web application created at the FreeCodeCamp Hackathon in San Francisco (11/2018).</br> </br> The application transforms a mathmatic equation (numbers), into mathmatic word problems. </br> </br>ReactJS, FaunaDB API, FormSpree API, HTML, CSS, Deployed to Netlify. <br><br>https://github.com/lydiarachel/nu-rd</p>",
+      "link": " https://keen-boyd-38d83f.netlify.com/",
+      "cta": "View App"
+    },
+    "second-project": {
+      "id": "",
+      "title": "GifTastic",
+      "body": "<p>This application utilizes the Giphy API to make a dynamic web page that populates with gifs that make your heart happy. </br></br> This application makes a call to the GIPHY API, and uses JavaScript and JQuery to change the HTML of the site. <br><br> https://github.com/lydiarachel/GifTastic</p>",
+      "link": "https://lydiarachel.github.io/GifTastic/",
+      "cta": "View Application"
+    },
+    "getthegist-project": {
+      "id": "",
+      "title": "Get the Gist",
+      "body": "<p>A web application group project that allows mini written blog contributions from real life pros or novices in various aspects of life and business, in order to provide helpful information to users. Guests can have read only access to the written contributions.</br></br>Built using ReactJS, Materialize, Node and Express Server, MongoDB and Mongoose, and deployed in Heroku.</br></br>https://github.com/lydiarachel/theDahlingsProject</p>",
+      "link": "http://get-the-gist.herokuapp.com/",
+      "cta": "View App"
+    },
+    "fourth-project": {
+      "id": "",
+      "title": "Trivia Game",
+      "body": "<p>A ThunderCats Trivia Game form with multiple choice options. </br></br> JavaScript, HTML, CSS </br></br> https://github.com/lydiarachel/TriviaGame </p>",
+      "link": "https://lydiarachel.github.io/TriviaGame/",
+      "cta": "View Game"
+    },
+    "fifth-project": {
+      "id": "",
+      "title": "OmiFood Project",
+      "body": "<p>A personal project through Udemy course. A mock online food order program. Upscale and beautiful design.</br></br>JavaScript, HTML, CSS </br></br>https://github.com/lydiarachel/omnifoodProject</p>",
+      "link": "https://lydiarachel.github.io/omnifoodProject/",
+      "cta": "View Project"
+    },
+    "sixth-project": {
+      "id": "",
+      "title": "Friend Finder",
+      "body": "<p> A compatibility-based 'FriendFinder' application -- basically a dating app. This full-stack site will take in results from the users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.</br></br> JavaScript, Node and Express Servers</br></br> https://github.com/lydiarachel/FriendFinder</p>",
+      "link": "https://rocky-crag-53861.herokuapp.com/",
+      "cta": "View Application"
+    }
+}
